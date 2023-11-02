@@ -77,6 +77,11 @@ git clone https://github.com/maximoortelli/Own_Enumerables.git
 - GitHub: [@Maximo Ortelli](https://github.com/maximoortelli)
 - LinkedIn: [Maximo Ortelli](https://www.linkedin.com/in/maximo-ortelli-rueda/)
 
+👤 **Ademola Owoeye**
+
+- GitHub: [@Ademola Owoeye](https://github.com/Ademola-coding)
+- LinkedIn: [Ademola Owoeye](https://www.linkedin.com/in/ademola-owoeye/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
